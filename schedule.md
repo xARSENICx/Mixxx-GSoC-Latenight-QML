@@ -11,8 +11,8 @@
 | 8 | June 29-July 5 | Effects rack | Mounted LateNight effects rack, 2/4 units, collapse/expand, slot selectors, dry/wet, super/PFL/mix/parameters, assignments, direct bindings. | |
 | Vacation | July 6-July 12 | Planned vacation | No planned deliverables; async review only if needed. | |
 | Midterm | July 13-July 17 | Midterm Evaluation | Contributor & Mentor Midterm Evaluation (Deadline: July 17). | |
-| Buffer | July 18-July 27 | Early-start compensation | No planned deliverables; async review only if needed. | |
-| 9 | July 28-August 2 | Menu and preferences cleanup | QML menu/action bridge, semantic accessible menus, remove `skin_settings.xml` path, adapt native preferences for our purpose, waveform preferences notes. | |
+| Buffer | July 18-July 26 | Early-start compensation | No planned deliverables; async review only if needed. | |
+| 9 | July 27-August 2 | Menu and preferences cleanup | QML menu/action bridge, semantic accessible menus, remove `skin_settings.xml` path, adapt native preferences for our purpose, waveform preferences notes. | |
 | 10 | August 3-August 9 | Layout variants | Mini/Compact/Full deck states, Loader boundaries, final root layout toggles, 2/4 deck and maximized-library verification. | |
 | 11 | August 10-August 16 | Samplers and Mic/Aux | LateNight sampler rack 4/8/16, `[SamplerX]` controls, sampler FX assignment, Mic/Aux rack, configured/unconfigured states, preview deck excluded. | |
 | 12-13 | August 17-August 31 | Stabilization | Startup/CPU benchmarks, QML load checks, manual test matrix, screenshot comparison, docs/test instructions/final report/PR video, final PR for complete LateNight QML UI. | |
