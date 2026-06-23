@@ -6,8 +6,8 @@
 | 3 | May 25-May 31 | Audit and architecture | Codebase audit, reuse/fork decisions, `res/qml/themes/LateNight` skeleton, LateNight buttons/toggles, library PR review until merge. | Done |
 | 4 | June 1-June 7 | Core decks and waveforms | Full-deck layout shell, title/time rows, overview, spinny/cover slot, transport/loop/beatjump/rate placeholders, 2/4 waveform layout. | Done |
 | 5 | June 8-June 14 | Deck controls | Play/cue/sync parity, reverse/key/vinyl/rate controls, FX assign, deck settings, `[Channel1-4]` binding checklist. | Done |
-| 6 | June 15-June 21 | Deck parity and benchmarks | Hotcues 1-8, intro/outro cues, loop/beatjump actions, beatgrid/timing controls, overview markers, deck parity checklist, first CPU benchmark. | Done |
-| 7 | June 22-June 28 | Mixer and toolbar | LateNight mixer, EQ/filter/PFL/meters/crossfader/main/headphone controls, standalone `Toolbar.qml`, status indicators, toolbar layout toggles replacing skin settings. | In-progress |
+| 6 | June 15-June 21 | Deck parity and benchmarks | Hotcues 1-8, intro/outro cues, loop/beatjump actions, beatgrid/timing controls, overview markers. | Done |
+| 7 | June 22-June 28 | Mixer and toolbar | LateNight mixer, EQ/filter/PFL/meters/crossfader/main/headphone controls, standalone `Toolbar.qml`, status indicators, toolbar layout toggles replacing skin settings, deck parity checklist, first CPU benchmark. | In-progress |
 | 8 | June 29-July 5 | Effects rack | Mounted LateNight effects rack, 2/4 units, collapse/expand, slot selectors, dry/wet, super/PFL/mix/parameters, assignments, direct bindings. | |
 | Vacation | July 6-July 12 | Planned vacation | No planned deliverables; async review only if needed. | |
 | Midterm | July 13-July 17 | Midterm Evaluation | Contributor & Mentor Midterm Evaluation (Deadline: July 17). | |
