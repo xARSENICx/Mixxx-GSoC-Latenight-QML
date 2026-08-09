@@ -6,12 +6,12 @@
 | 5 | June 8-June 14 | Deck controls | Play/cue/sync parity, reverse/key/vinyl/rate controls, FX assign, deck settings, `[Channel1-4]` binding checklist. | Done |
 | 6 | June 15-June 21 | Deck parity and benchmarks | Hotcues 1-8, intro/outro cues, loop/beatjump actions, beatgrid/timing controls, overview markers. | Done |
 | 7 | June 22-June 28 | Toolbar | Standalone `Toolbar.qml`, status indicators, toolbar layout toggles replacing skin settings, deck parity checklist, first CPU benchmark. | Done |
-| 8 | June 29-July 8 | Mixer | LateNight mixer, EQ/filter/PFL/meters/crossfader/main/headphone controls. | Done (To push) |
+| 8 | June 29-July 8 | Mixer | LateNight mixer, EQ/filter/PFL/meters/crossfader/main/headphone controls. | Done |
 | Vacation | July 9-July 12 | Planned vacation | No planned deliverables; async review only if needed. | Done |
 | Midterm | July 13-July 17 | Midterm Evaluation | Contributor & Mentor Midterm Evaluation (Deadline: July 17). | Done |
 | Vacation | July 18-July 26 | Early-start compensation | No planned deliverables; async review only if needed. | Done  |
-| 9 | July 27-August 2 | Menu and preferences cleanup | QML menu/action bridge, semantic accessible menus, remove `skin_settings.xml` path, adapt native preferences for our purpose, waveform preferences notes. | Done (To push) |
-| 10 | August 3-August 9 | Mixer, Deck and Menu | Finish leftover mixer, menu and deck part 2. | |
+| 9 | July 27-August 2 | Menu and preferences cleanup | QML menu/action bridge, semantic accessible menus, remove `skin_settings.xml` path, adapt native preferences for our purpose, waveform preferences notes. | Done |
+| 10 | August 3-August 9 | Mixer, Deck and Menu | Finish leftover mixer, menu and deck part 2. | Done |
 | 11 | August 10-August 16 | Effects | Mounted LateNight effects rack, 2/4 units, collapse/expand, slot selectors, dry/wet, super/PFL/mix/parameters, assignments, direct bindings. | |
 | 12 | August 17-August 23 | Samplers and Mic/Aux | LateNight sampler rack 4/8/16, `[SamplerX]` controls, sampler FX assignment, Mic/Aux rack, configured/unconfigured states, preview deck excluded. |  |
 | 13 | August 24-August 30 | Layout variants | Mini/Compact/Full deck states, Loader boundaries, final root layout toggles, 2/4 deck and maximized-library verification. |  |
