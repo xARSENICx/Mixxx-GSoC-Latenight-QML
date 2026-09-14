@@ -15,6 +15,6 @@
 | 11 | August 10-August 16 | Effects | Mounted LateNight effects rack, 2/4 units, collapse/expand, slot selectors, dry/wet, super/PFL/mix/parameters, assignments, direct bindings. | Done |
 | 12 | August 17-August 23 | Samplers and Mic/Aux | LateNight sampler rack 4/8/16, `[SamplerX]` controls, sampler FX assignment, Mic/Aux rack, configured/unconfigured states, preview deck excluded. | Done |
 | 13 | August 24-August 30 | Layout variants | Mini/Compact/Full deck states, Loader boundaries, final root layout toggles, 2/4 deck and maximized-library verification. | Done |
-| 14-15 | August 31-Sept 13 | Stabilization | Startup/CPU benchmarks, QML load checks, manual test matrix, screenshot comparison, docs/test instructions/final report/PR video, final PR for complete LateNight QML UI. | |
+| 14-15 | August 31-Sept 13 | Stabilization | Startup/CPU benchmarks, QML load checks, manual test matrix, screenshot comparison, docs/test instructions/final report/PR video, final PR for complete LateNight QML UI. | Done |
 | Submission | Sept 14-Sept 20 | Contributor submission week | Final polish, mentor feedback, final work product, final submission (Deadline: Sept 20). | |
 | Final Eval | Sept 21-Sept 26 | Mentor Final Evaluation | Mentor Final Evaluation (Deadline: Sept 26). | |
